@@ -1,0 +1,10 @@
+{
+  "name": "adv-fe",
+  "homepage": "https://github.com/AnnaRokalo/adv-fe",
+  "dependencies": {
+    "underscore": "1.8.3",
+    "react": ">0.1.0",
+    "angular": "*",
+    "backbone": "^1"
+  }
+}
