@@ -1,0 +1,16 @@
+{
+  "name": "adv-fe",
+  "version": "1.0.0",
+  "description": "My repository for Advanced Front-end courses.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "run-sequence": "^1.1.5"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}

@@ -1,0 +1,44 @@
+.header {
+    margin-top: 30px;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+    font-weight: 600;
+}
+
+.posts-json {
+    margin-top: 10px;
+}
+
+.posts-json__brace {
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+.posts-json__brace ~ .posts-json__row {
+    margin-left: 40px;
+}
+
+.posts-json__row {
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+}
+
+.posts-table {
+    width: 100%;
+    box-sizing: border-box;
+    margin: 10px 5px 5px 5px;
+    border: 1px solid gainsboro;
+}
+
+.posts-table__row {
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    padding: 10px 20px;
+    background-color: #fff;
+}
+
+.posts-table__row:nth-child(2n+1) {
+    background-color: gainsboro;
+}
