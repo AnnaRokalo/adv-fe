@@ -1,0 +1,8 @@
+{
+  "preset": "jquery",
+  "validateQuoteMarks": "'",
+  "maximumLineLength": 80,
+  "requireCapitalizedConstructors": true,
+  "requireDotNotation": true,
+  "excludeFiles": ["node_modules/**"]
+}
